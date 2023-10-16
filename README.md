@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hello, I'm Terry</h1>
-
+<p align="center">
+    <a href="https://github.com/THChen2002/" rel="noreferrer noopener">
+        <img src="../data/github-metrics.svg" />
+        <img src="../data/github-snake.svg" />
+    </a>
+</p>
 ---
 
 - 🌱 I’m major in [**MIE**](https://me.ntue.edu.tw/) at [**NTUE**](https://www.ntue.edu.tw/) in Taiwan !!
