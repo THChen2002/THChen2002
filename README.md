@@ -81,8 +81,8 @@
 
 <h3 align="left">Others:</h3>
 <p align="left">
-    <a href="https://www.leetcode.com/gary20011110" target="_blank" rel="noreferrer noopener">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="gary20011110" height="40" width="40" />
+    <a href="https://leetcode.com/thchen2002/" target="_blank" rel="noreferrer noopener">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="thchen2002" height="40" width="40" />
     </a>
 </p>
 <!--
