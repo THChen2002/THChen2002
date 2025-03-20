@@ -9,7 +9,7 @@
 </p>
 ---
 
-- 🌱 I’m major in [**MIE**](https://me.ntue.edu.tw/) at [**NTUE**](https://www.ntue.edu.tw/) in Taiwan !!
+- 🌱 I’m studying for a master's degree of [**CSIE**](https://www.csie.ntust.edu.tw/) at [**NTUST**](https://www.ntust.edu.tw/). I completed my Bachelor's degree in [**MIE**](https://me.ntue.edu.tw/) at [**NTUE**](https://www.ntue.edu.tw/) in Taiwan !!
 
 - 👨‍💻 All of my projects are available at [**repositories page**](https://github.com/THChen2002?tab=repositories)
 
