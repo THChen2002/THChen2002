@@ -2011,9 +2011,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.400827586206894 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.39189189189189 329"/>
                     <text x="60" y="50" dominant-baseline="central">357</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3625</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3626</text>
                   </svg>
                   <span class="title">All</span>
                 </div>
@@ -2031,9 +2031,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="22.003184713375795 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.991511936339524 329"/>
                     <text x="60" y="50" dominant-baseline="central">126</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1884</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1885</text>
                   </svg>
                   <span class="title">Medium</span>
                 </div>
@@ -2149,7 +2149,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 24 Jul 2025, 20:38:31 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 25 Jul 2025, 00:20:46 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
