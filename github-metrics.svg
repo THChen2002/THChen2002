@@ -2011,9 +2011,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="30.062196058356793 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="30.031449757095373 329"/>
                     <text x="60" y="50" dominant-baseline="central">357</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3907</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3911</text>
                   </svg>
                   <span class="title">All</span>
                 </div>
@@ -2021,9 +2021,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="77.16417910447761 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="77.08200212992546 329"/>
                     <text x="60" y="50" dominant-baseline="central">220</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/938</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/939</text>
                   </svg>
                   <span class="title">Easy</span>
                 </div>
@@ -2031,9 +2031,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="20.270904645476772 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="20.26099706744868 329"/>
                     <text x="60" y="50" dominant-baseline="central">126</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2045</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2046</text>
                   </svg>
                   <span class="title">Medium</span>
                 </div>
@@ -2041,9 +2041,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.9166666666666665 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.9082073434125273 329"/>
                     <text x="60" y="50" dominant-baseline="central">11</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/924</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/926</text>
                   </svg>
                   <span class="title">Hard</span>
                 </div>
@@ -2133,7 +2133,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 25 Apr 2026, 20:59:11 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 26 Apr 2026, 00:38:15 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
